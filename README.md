@@ -1,5 +1,5 @@
 ## Hi there ✌ I'm Andres Torres 
-### *FullStack Web Developer from Bogotá D.C, Colombia*
+### *I am from Bogotá D.C, Colombia*
 
 I am dedicated to continuously improving my skills and keeping up with the latest trends and technologies in web development.
 
